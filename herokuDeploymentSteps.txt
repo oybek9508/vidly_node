@@ -1,0 +1,5 @@
+
+// create a heroku account
+// install heroku cli
+// login to heroku
+// add "engines": {"node": "//write node version here"}
